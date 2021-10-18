@@ -1,4 +1,4 @@
-# hyper-tar
+# Hyper-Tar
 
 Using an MPU6050 Accelerometer to convert motion into MIDI. 
 
